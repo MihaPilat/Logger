@@ -1,0 +1,100 @@
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Action failed by a reason:I broke a logic} {Error}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
+{24.04.2021 12:14:48} {Start method:FirstMethod} {Info}
+{24.04.2021 12:14:48} {Start method:SecondMethod} {Warning}
