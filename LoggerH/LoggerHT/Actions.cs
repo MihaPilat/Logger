@@ -9,27 +9,20 @@ namespace LoggerHT
         public Result FirstMethod()
         {
             var logger = Logger.GetInstance();
-            logger.PrintLogg("Start method:FirstMethod", "Info");
-            Result result = new Result();
-            result.Status = true;
-            return result;
+            logger.PrintLogg("Start method:FirstMethod", LogType.Info);
+            return new Result { Status = true };
         }
 
         public Result SecondMethod()
         {
             var logger = Logger.GetInstance();
-            logger.PrintLogg("Start method:SecondMethod", "Warning");
-            Result result = new Result();
-            result.Status = true;
-            return result;
+            logger.PrintLogg("Start method:SecondMethod", LogType.Warning);
+            return new Result { Status = true };
         }
 
         public Result ThirdMethod()
         {
-            Result result = new Result();
-            result.Status = false;
-            result.ErrorMessageProperty = "I broke a logic";
-            return result;
+            return new Result { Status = false, ErrorMessage = "I broke a logic" };
         }
     }
 }

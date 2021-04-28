@@ -6,42 +6,46 @@ namespace LoggerHT
 {
     public class Logger
     {
-        private static Logger instance;
+        private static Logger _instance;
+        private static StringBuilder _data = new StringBuilder();
         private Logger()
         {
         }
 
-        public string Data { get; set; }
-
         public static Logger GetInstance()
         {
-            if (instance == null)
+            if (_instance == null)
             {
-                instance = new Logger();
+                _instance = new Logger();
             }
 
-            return instance;
+            return _instance;
         }
 
-        public void PrintLogg(string message, string logtype)
+        public void PrintLogg(string message, LogType logType)
         {
-            string logg = "{" + DateTime.Now + "} {" + message + "} {" + logtype + "}" + "\n";
-            if (logtype == "Info")
+            string log = $"{{{DateTime.UtcNow}}} {{{message}}} {{{logType}}}";
+            switch (logType)
             {
-                Console.ForegroundColor = ConsoleColor.Green;
-            }
-            else if (logtype == "Warning")
-            {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-            }
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
+                case LogType.Info:
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    break;
+                case LogType.Warning:
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    break;
+                case LogType.Error:
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    break;
             }
 
-            Console.Write(logg);
+            _data.AppendLine(log);
+            Console.WriteLine(log);
             Console.ForegroundColor = ConsoleColor.White;
-            Data = Data + logg;
+        }
+
+        public string ReturnAllLogs()
+        {
+            return _data.ToString();
         }
     }
 }

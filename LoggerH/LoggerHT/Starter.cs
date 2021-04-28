@@ -11,32 +11,32 @@ namespace LoggerHT
         {
             int random;
             Actions actions = new Actions();
-            Result result = new Result();
+            Result result = null;
             for (int i = 0; i < 100; i++)
             {
                 random = new Random().Next(0, 3);
-                if (random == 0)
+                switch (random)
                 {
-                    result = actions.FirstMethod();
-                }
-                else if (random == 1)
-                {
-                    result = actions.SecondMethod();
-                }
-                else
-                {
-                    result = actions.ThirdMethod();
+                    case 0:
+                        result = actions.FirstMethod();
+                        break;
+                    case 1:
+                        result = actions.SecondMethod();
+                        break;
+                    case 2:
+                        result = actions.ThirdMethod();
+                        break;
                 }
 
                 if (result.Status == false)
                 {
                     var logger = Logger.GetInstance();
-                    logger.PrintLogg("Action failed by a reason:" + result.ErrorMessageProperty, "Error");
+                    logger.PrintLogg("Action failed by a reason:" + result.ErrorMessage, LogType.Error);
                 }
             }
 
-            var logg = Logger.GetInstance();
-            File.WriteAllText("log.txt", logg.Data);
+            var log = Logger.GetInstance();
+            File.WriteAllText("log.txt", log.ReturnAllLogs());
         }
     }
 }

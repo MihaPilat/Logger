@@ -6,9 +6,8 @@ namespace LoggerHT
     {
         public static void Main(string[] args)
         {
-            Starter newStarter = new Starter();
-            newStarter.Run();
-            Console.WriteLine(DateTime.Now);
+            Starter starter = new Starter();
+            starter.Run();
         }
     }
 }

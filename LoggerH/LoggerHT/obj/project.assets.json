@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projecks\\LoggerHT\\LoggerHT\\LoggerHT.csproj",
+      "projectUniqueName": "D:\\Projecks\\loggggg\\LoggerH\\LoggerHT\\LoggerHT.csproj",
       "projectName": "LoggerHT",
-      "projectPath": "D:\\Projecks\\LoggerHT\\LoggerHT\\LoggerHT.csproj",
+      "projectPath": "D:\\Projecks\\loggggg\\LoggerH\\LoggerHT\\LoggerHT.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "D:\\Projecks\\LoggerHT\\LoggerHT\\obj\\",
+      "outputPath": "D:\\Projecks\\loggggg\\LoggerH\\LoggerHT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
